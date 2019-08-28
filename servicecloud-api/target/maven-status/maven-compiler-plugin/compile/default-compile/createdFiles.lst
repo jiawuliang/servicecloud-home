@@ -1,0 +1,4 @@
+com\guet\springcloud\service\DeptClientService.class
+com\guet\springcloud\service\impl\DeptClientServiceFallbackFactory.class
+com\guet\springcloud\pojo\Dept.class
+com\guet\springcloud\service\impl\DeptClientServiceFallbackFactory$1.class
